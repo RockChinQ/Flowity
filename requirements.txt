@@ -1,0 +1,4 @@
+ply
+langchain
+langchain-openai
+pydantic
