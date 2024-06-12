@@ -1,6 +1,7 @@
 # Flowity
 
-Workflow language designed for LLM.
+Programming language for building LLM workflows.  
+and its runtime implementation in Python.
 
 ## Installation
 
