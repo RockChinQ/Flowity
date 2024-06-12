@@ -20,6 +20,8 @@ $end($resp)
 Any statements not starting with `$` are considered as prompt, and will be sent to the model while calling `$query()`, the response will be stored in the variable `$resp`.  
 Prompt will be cached until the next `$query()` call.
 
+> Syntax details can be found [here](docs/Syntax.md).
+
 ## Run a workflow
 
 ```python
